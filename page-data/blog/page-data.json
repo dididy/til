@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx",
-    "path": "/blog",
-    "result": {"data":{"allPost":{"nodes":[{"slug":"/retrospect/2020-08-contributhon","title":"eslint-plugin-react","date":"01.09.2020","excerpt":"> Issue 내용 eslint-plugin-react의 jsx-handler-name 규칙에서 arrow function이 사용되는 경우가 고려되지 않았다. 따라서 arrow function을 사용하는 경우 jsx-handler-name…","timeToRead":3,"description":null,"tags":null},{"slug":"/retrospect/2020-07-angelhack","title":"AngelHack Seoul 2020 회고","date":"01.08.2020","excerpt":"2020. 07. 13 - 19  |  GitHub repo  |  deployed  |  pitch / demo video 팀빌딩과 작업 진행 코로나 문제로 미국에서 인턴십을 조기 종료하고 7월 8일 한국에 도착했다. 해외입국자였기 때문에…","timeToRead":3,"description":null,"tags":null}]}},"pageContext":{"formatString":"DD.MM.YYYY"}},
-    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
