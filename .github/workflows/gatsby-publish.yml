@@ -26,9 +26,10 @@ jobs:
           git clone -b contents --single-branch https://github.com/dididy/til
           mkdir ./gatsby-blog-starter-with-rescript/posts
           mv ./til/contents ./gatsby-blog-starter-with-rescript/posts/
+          cp .env ./gatsby-blog-starter-with-rescript
           cd ./gatsby-blog-starter-with-rescript
           yarn install
-          PREFIX_PATHS=true P_PATH=til yarn build
+          yarn build
         shell: bash
 
       - name: Deploy
